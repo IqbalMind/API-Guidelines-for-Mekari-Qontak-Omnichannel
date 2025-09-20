@@ -15,7 +15,7 @@ The code examples demonstrate how to use the **Mekari API with HMAC authenticati
 ## ⚙️ How it Works: The WhatsApp Broadcast Flow
 The following diagram illustrates the typical flow for sending a WhatsApp broadcast message using the Mekari Qontak API.
 
-*(Insert diagram here if available)*
+![Qontak Omnichannel Whatsapp Broadcast Flow](https://i.imgur.com/j3Ebt2s.png)
 
 ---
 
