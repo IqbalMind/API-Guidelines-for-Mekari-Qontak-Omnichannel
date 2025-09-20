@@ -8,7 +8,7 @@ The code examples demonstrate how to use the **Mekari API with HMAC authenticati
 ## 📖 Official Documentation & Support
 - **API Reference:** [Mekari Qontak Omnichannel API](https://docs.qontak.com/docs/omnichannel-hub/3f11066e2ce6c-api-mekari-v1-0)  
 - **Product:** [Qontak Chat](https://chat.qontak.com/)  
-- **Consultation:** Reach out to **Iqbal Mind on LinkedIn** for further consultation or to subscribe.  
+- **Consultation:** Reach out to my **[LinkedIn](https://www.linkedin.com/in/iqbalmind/)** for further consultation or to subscribe.  
 
 ---
 
